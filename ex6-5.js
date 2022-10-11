@@ -18,5 +18,5 @@ function hanako65() {
 
 function hanako65() {
   who65 = '花子';
-alert('came, ' + who65 +'!');
+  alert('came, ' + who65 +'!');
 }

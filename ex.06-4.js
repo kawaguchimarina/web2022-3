@@ -1,0 +1,1 @@
+Function "GoodBye" alert Goodbye

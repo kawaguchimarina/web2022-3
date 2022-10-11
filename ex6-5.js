@@ -4,21 +4,17 @@ function sayhello65() {
 }
 
 function taro65() {
-  who65='太郎';
-  came='が来た';
+  who65='太郎';  
 }
 
 function taro65() {
-  who65='太郎';
-  alert('came, '  + who65 +'!');
+  who65='太郎' +　'が来た';  
 }
   
 function hanako65() {
-  who65='花子';
-  came='が来た';
+  who65='花子'; 
 }
 
 function hanako65() {
-  who65 = '花子';
-  alert('came, ' + who65 +'!');
+  who65 = '花子' + 'が来た';
 }

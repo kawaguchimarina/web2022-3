@@ -5,6 +5,7 @@ function sayhello65() {
 
 function taro65() {
   who65='太郎';
+  came='が来た';
 }
 
 function taro65() {
@@ -14,6 +15,7 @@ function taro65() {
   
 function hanako65() {
   who65='花子';
+  came='が来た';
 }
 
 function hanako65() {

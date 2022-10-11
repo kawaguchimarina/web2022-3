@@ -1,1 +1,3 @@
-Function "GoodBye" alert Goodbye
+function saygoodbye() {
+alert('Goodbye!');
+}

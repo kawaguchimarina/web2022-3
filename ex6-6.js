@@ -18,7 +18,3 @@ function hanako66() {
   alert(who66+'が来た' +'!');
 }
 
-
-function gakita() {
-  alert(who66 +  'が来た');
-}

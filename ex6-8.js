@@ -1,5 +1,5 @@
 function sayhello68() {
-alert('HELLO, '+ document.getElementById('who68').innerHTML+ '!');
+alert('Hello, '+ document.getElementById('who68').innerHTML+ '!');
 }
 
 function taro68() {

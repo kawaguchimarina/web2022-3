@@ -1,3 +1,3 @@
-function imgchange1() 
-{
-document.getElementById('img1').innerHTML='img src='./image/abm00047230.jpg';}
+function imgchange688() { 
+document.getElementById('josai').innerHTML='img src='./image/abm00047230.jpg';
+}

@@ -1,4 +1,4 @@
-function imgchange1()
+function gazouhenko1()
 {
-document.getElementById('img1').innerHTML = '<img src="./image/abm00047230.jpg">';
+document.getElementById('who688').innerHTML = '<img src="./image/abm00047230.jpg">';
 }

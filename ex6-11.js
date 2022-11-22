@@ -20,5 +20,6 @@ function startfnc() {
 setInterval("hyouji()",1000); }
 
 function mes() {
-alert("3秒経ちました!"); }
+alert("3秒経ちました!"); 
+}
 

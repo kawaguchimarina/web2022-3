@@ -1,6 +1,6 @@
 function hyouji() {
 //表示する文字  
-var str="一文字ずつ表示します。";
+var str="ポムポムプリンが可愛すぎ。";
 
 //テキストボックスの文字数
 var cnt=document.timer.moji.value.length;

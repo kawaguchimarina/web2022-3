@@ -11,8 +11,7 @@ if(cnt13<11) {
 //現在より1文字多く切り出して表示  
 document.timer13.moji13.value=str.substr(0,cnt13+1); }
   
-else
-{
+else {
 //全て表示されたら、空文字に戻す
 
 document.timer13.moji13.value=""; }

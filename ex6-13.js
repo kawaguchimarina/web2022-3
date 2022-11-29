@@ -15,6 +15,5 @@ else {
 //全て表示されたら、空文字に戻す
 document.timer13.moji13.value=""; }
  
-function startfnc13() { 
 //setTimeout()を含む関数を呼び出す
 setTimeout("hyouji13()",1000); }

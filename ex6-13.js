@@ -16,5 +16,4 @@ else {
 
 document.timer13.moji13.value=""; }
 //setTimeout()を含む関数を呼び出す
-
 setTimeout("hyouji13()",1000); }

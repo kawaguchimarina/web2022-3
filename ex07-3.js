@@ -10,3 +10,4 @@ function keisan(){
   else{ 
    document.getElementById("kuuran").textContent = "瘦せ型";}
  }
+

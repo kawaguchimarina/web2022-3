@@ -1,5 +1,5 @@
 function add2(){ 
   var x = document.getElementById("shincho").value; 
   var y	= document.getElementById("taijuu").value; 
-  alert(y*1000/(x*x));
+  alert((y/x)*100);
 }

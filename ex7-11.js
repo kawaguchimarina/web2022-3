@@ -1,5 +1,5 @@
 function add4(){
-var x =document.getElementById('nen').value;
+var x =document.getElementById('nen4').value;
 var z=Number(x)%Number('4');
 var a=Number(x)%Number('100');
 var b=Number(x)%Number('400');

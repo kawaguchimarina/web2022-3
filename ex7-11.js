@@ -6,7 +6,7 @@ var b=Number(x)%Number('400');
 if(a==0&&b!=0){
  alert('平年');
 }
-else if(a==0){
+else if(z==0){
  alert('うるう年');
 }
 else{

@@ -6,3 +6,4 @@ else(document.getElementById('answer5').value=='ゆめ'){
  alert('あたり！');
   }
 }
+
